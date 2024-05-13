@@ -6,7 +6,7 @@ This returns problemset solved problems for any handle except the one who you ar
 For handle who you are logined with it returns all solved problems including any mash problems.
 
 Required libraries:
-1- bs4
+1- bs4<br>
 2- html5lib
 3- requests
 
