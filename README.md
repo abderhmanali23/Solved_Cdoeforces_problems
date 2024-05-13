@@ -1,5 +1,5 @@
 # Solved_Cdoeforces_problems
- Get solved problems for given handles
+ Get solved problems for given handles<br>
 Description:<br>
 This is a python script used to get names of solved problems for given handles..<br>
 This returns problemset solved problems for any handle except the one who you are logined with.<br>
